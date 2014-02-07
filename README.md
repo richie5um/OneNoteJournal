@@ -4,8 +4,8 @@ Simple little app that runs in the Noticiation Area (aka [System Tray](http://bl
 
 # Screenshots
 ![](Resources/OneNoteJournal-NotificationArea.png)
-![](https://github.com/richie5um/OneNoteJournal/blob/master/Resources/OneNoteJournal-Options.png)
-![](https://github.com/richie5um/OneNoteJournal/blob/master/Resources/OneNoteJournal-Organization.png)
+![](Resources/OneNoteJournal-Options.png)
+![](Resources/OneNoteJournal-Organization.png)
 
 ### ToDo:
 * Update so that it'll work with any version of OneNote.
